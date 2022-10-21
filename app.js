@@ -226,12 +226,11 @@
                 "div",
                 {className:"author"},
                 " ",
-                "Designed and Coded By ",
-                React.createElement("br",null),
+                "Coding by ",
                 React.createElement(
                   "a",
-                  {href:"https://goo.gl/6NNLMG",target:"_blank"},
-                  "Peter Weinberg")
+                  {href:"https://www.linkedin.com/in/danielddoan/",target:"_blank"},
+                  "- Daniel Doan")
               )
             )
           }

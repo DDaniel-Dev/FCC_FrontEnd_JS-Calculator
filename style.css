@@ -21,7 +21,7 @@
 }
 
 body {
-  background: #c2c2d6;
+  background: #7675a8;
   -webkit-touch-callout: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -31,9 +31,9 @@ body {
 }
 
 .calculator {
-  border: 2px solid #47476b;
+  border: 2px solid black;
   padding: 5px;
-  background: black;
+  background: rgb(85, 93, 109);
   width: 320px;
   position: relative;
 }
@@ -42,7 +42,7 @@ body {
   min-height: 20px;
   font-family: digital;
   font-size: 20px;
-  color: orange;
+  color: rgb(229, 152, 116);
   text-align: right;
   vertical-align: text-top;
   line-height: 20px;
@@ -87,6 +87,9 @@ button:hover {
 }
 .author a {
   text-decoration: none;
-  color: #00264d;
+  color: #ccc9d5;
   line-height: 26px;
+}
+.author a:hover {
+  color: rgb(58, 44, 136);
 }
